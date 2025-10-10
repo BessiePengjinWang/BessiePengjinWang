@@ -4,7 +4,7 @@ Consultant at Keystone Strategy • Data Science @ Columbia
 
 ## What I work with
 
-Python • R • SQL • Tableau • Looker • PowerBI • AWS • GCP • dbt
+Python • R • SQL • Tableau • Looker • Power BI • AWS • GCP • dbt
 
 Machine learning (predictive analytics, NLP, computer vision)
 
@@ -15,33 +15,33 @@ Currently consulting at Keystone Strategy. Previously worked on ML research at C
 B.A. Data Science – Columbia University, Barnard College (2023)
 
 ## Projects
-### Machine Learning Models in the Automotive Industry
+### Machine Learning Models in the Automotive Industry (2023)
 [View Paper](https://github.com/BessiePengjinWang/US-Car-Resale-Price-Prediction/blob/main/Project-paper.pdf) | [View Code](https://github.com/BessiePengjinWang/US-Car-Resale-Price-Prediction/blob/main/Project-code.Rmd)  
 Forecasting U.S. car resale prices using ML. Identified key price drivers, clustered customer groups, and built interactive app for scenario testing (brand preferences & resale price simulation). Implemented in **R** with clustering + regression.
 
 ---
 
-### Music Rating Database & Web App
+### Music Rating Database & Web App (2023)
 [View Code](https://github.com/BessiePengjinWang/Music-Rating-Database-Project)  
 A database-driven clone of *Rate Your Music*. Built with **Python (Flask) + PostgreSQL + HTML**. Deployed on Google Cloud VM.  
 
 ---
 
-### Hazard Mitigation Analysis
+### Hazard Mitigation Analysis (2023)
 [View App](https://drake-wang-2000.shinyapps.io/project2/)  
 Analyzed and visualized U.S. disaster distributions and FEMA fund allocations. Predicted crucial factors for 2024 disaster funding using **Random Forests**. Built and deployed with **R Shiny**.  
 <img width="2480" height="1616" alt="image" src="https://github.com/user-attachments/assets/90dd1197-95d0-4e52-9794-2d71b6f6060d" />
 
 ---
 
-### EDA: Happy Moments
+### EDA: Happy Moments (2023)
 [View HTML](https://pw2555.github.io/assets/files/happydb_pw2555.html)  
 Explored whether marital status influences women’s sources of happiness. Used **wordclouds** and **word2vec** in **R**.  
 <img width="2446" height="1368" alt="image" src="https://github.com/user-attachments/assets/cde441d5-15e5-42e7-8478-2a61a4257195" />
 
 ---
 
-### CUFER — Columbia Underground Forum of Employer Reviews
+### CUFER — Columbia Underground Forum of Employer Reviews (2022)
 SaaS for Columbia students to share verified job experiences.  
 - Frontend: **ReactJS**, deployed on **AWS S3**  
 - Backend: **AWS RDS + GCP App Engine**  
@@ -50,7 +50,7 @@ SaaS for Columbia students to share verified job experiences.
 
 ---
 
-### Conscientiousness & Warmth Towards Republicans
+### Relationship Between Conscientiousness and Warmth Toward Republicans (2022)
 [View Paper](https://github.com/pw2555/PersonalityPsych/blob/main/PsychLab_1_LR.pdf)  
 Statistical regression analysis exploring political psychology. Built in **R**.
 
