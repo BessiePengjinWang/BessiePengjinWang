@@ -15,6 +15,15 @@ Currently consulting at Keystone Strategy. Previously worked on ML research at C
 B.A. Data Science – Columbia University, Barnard College (2023)
 
 ## Projects
+
+### My Grocery Helper (2025)
+[View Workflow](https://github.com/BessiePengjinWang/my-grocery-helper)  
+AI-powered grocery assistant built in **n8n**, connecting **Telegram + OpenAI GPT-5 + Google Sheets**.  
+Automatically reads receipt photos, extracts item & price data, stores it, and analyzes purchase history to recommend restocks.  
+<img width="1200" alt="workflow diagram" src="https://raw.githubusercontent.com/BessiePengjinWang/my-grocery-helper/main/assets/workflow-diagram.png" />
+
+---
+
 ### Machine Learning Models in the Automotive Industry (2023)
 [View Paper](https://github.com/BessiePengjinWang/US-Car-Resale-Price-Prediction/blob/main/Project-paper.pdf) | [View Code](https://github.com/BessiePengjinWang/US-Car-Resale-Price-Prediction/blob/main/Project-code.Rmd)  
 Forecasting U.S. car resale prices using ML. Identified key price drivers, clustered customer groups, and built interactive app for scenario testing (brand preferences & resale price simulation). Implemented in **R** with clustering + regression.
