@@ -16,8 +16,15 @@ B.A. Data Science – Columbia University, Barnard College (2023)
 
 ## Projects
 
+### Halfway (2025)
+[View Code](https://github.com/BessiePengjinWang/halfway)  
+Restaurant finder that calculates the perfect midpoint between two locations. Filters by cuisine & price, shows transit times from both starting points. Built with **React + TypeScript + Google Maps API** (Places, Directions, Geocoding).  
+[![Halfway screenshot](https://raw.githubusercontent.com/BessiePengjinWang/meetmidway/main/assets/screenshot.png)](https://raw.githubusercontent.com/BessiePengjinWang/meetmidway/main/assets/screenshot.png)
+
+---
+
 ### My Grocery Helper (2025)
-[View Workflow](https://github.com/BessiePengjinWang/my-grocery-helper)  
+[View Code](https://github.com/BessiePengjinWang/my-grocery-helper)  
 AI-powered grocery assistant built in **n8n**, connecting **Telegram + OpenAI GPT-5 + Google Sheets**.  
 Automatically reads receipt photos, extracts item & price data, stores it, and analyzes purchase history to recommend restocks.  
 <img width="1200" alt="workflow diagram" src="https://raw.githubusercontent.com/BessiePengjinWang/my-grocery-helper/main/assets/workflow-diagram.png" />
@@ -67,8 +74,7 @@ Statistical regression analysis exploring political psychology. Built in **R**.
 
 ## 🔗 Connect
 - LinkedIn: [linkedin.com/in/bessiepengjinwang/](https://www.linkedin.com/in/bessiepengjinwang/)
-- Portfolio Website: [bessiepengjinwang.github.io](https://bessiepengjinwang.github.io)  
-- GitHub: [github.com/BessiePengjinWang](https://github.com/BessiePengjinWang)
+- Email: pengjin1217@gmail.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BessiePengjinWang/BessiePengjinWang/output/github-snake-dark.svg" />
