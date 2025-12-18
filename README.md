@@ -19,7 +19,7 @@ B.A. Data Science – Columbia University, Barnard College (2023)
 ### Halfway (2025)
 [View Code](https://github.com/BessiePengjinWang/halfway)  
 Restaurant finder that calculates the perfect midpoint between two locations. Filters by cuisine & price, shows transit times from both starting points. Built with **React + TypeScript + Google Maps API** (Places, Directions, Geocoding).  
-[![Halfway screenshot](https://raw.githubusercontent.com/BessiePengjinWang/meetmidway/main/assets/screenshot.png)](https://raw.githubusercontent.com/BessiePengjinWang/meetmidway/main/assets/screenshot.png)
+[![Halfway screenshot](https://raw.githubusercontent.com/BessiePengjinWang/halfway/main/assets/screenshot_3.png)](https://raw.githubusercontent.com/BessiePengjinWang/halfway/main/assets/screenshot_3.png)
 
 ---
 
