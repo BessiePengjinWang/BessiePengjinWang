@@ -6,14 +6,14 @@ I bridge the gap between complex data systems and strategic business decisions.
 
 ## 🛠 Technical Stack
 
-### **Data Science & AI**
-- **Languages:** Python (Pandas, PyTorch, Causal Inference), R, SQL (PostgreSQL, BigQuery, Snowflake)
-- **AI/LLM Ops:** Generative AI (RAG Pipelines, Agentic Workflows), LangChain, LlamaIndex, Prompt Engineering
-- **Machine Learning:** Scikit-learn, Computer Vision (OCR/Formula Recognition), Statistical Modeling
+### **Data Science**
+- **Machine Learning:** Gradient Boosting (LightGBM, XGBoost), Scikit-learn, Recommender Systems, Causal Inference, Time Series
+- **Languages:** Python (Pandas, NumPy, PyTorch), R, SQL (PostgreSQL, BigQuery)
+- **Data Engineering:** ETL pipelines
 
 ### **Engineering & Infrastructure**
-- **Full-Stack:** React, TypeScript, FastAPI, Flask, Tailwind CSS
-- **Cloud & DevOps:** AWS (EC2, S3, RDS), GCP (Vertex AI), Docker, GitHub Actions, dbt
+- **Deployment & API:** FastAPI, Flask, Docker, AWS, GCP
+- **Web & Visualization:** Streamlit, React, TypeScript, Tailwind CSS
 - **BI & Automation:** Tableau, Looker, Power BI, n8n, Zapier
 
 ---
@@ -21,6 +21,7 @@ I bridge the gap between complex data systems and strategic business decisions.
 ## Projects
 
 ### Data Science & Analysis
+* **Instacart Recommendation System (2025)**: Grocery reorder prediction (13M samples). Per-user optimization, cold start handling, production FastAPI deployment. [Code](https://github.com/BessiePengjinWang/instacart-recommendation-system)
 * **Last-Mile Logistics Analysis (2025)**: Strategic marketplace analysis identifying $20K+ monthly revenue optimization.
 * **ML in Automotive Industry (2023)**: Forecasting U.S. car resale prices using Random Forests & Clustering. [Code](https://github.com/BessiePengjinWang/US-Car-Resale-Price-Prediction/blob/main/Project-code.Rmd) | [Paper](https://github.com/BessiePengjinWang/US-Car-Resale-Price-Prediction/blob/main/Project-paper.pdf)
 * **Hazard Mitigation Analysis (2023)**: R Shiny app predicting FEMA funding priorities via Random Forests. [App](https://drake-wang-2000.shinyapps.io/project2/)
