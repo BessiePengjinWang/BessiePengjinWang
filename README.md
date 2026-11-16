@@ -1,6 +1,6 @@
 ## Bessie (Pengjin) Wang
 
-Data scientist and engineer working on machine learning for financial operations and legal analytics. Columbia University (Barnard College), B.A. in Data Science.
+Works on applied machine learning and the software around it, mostly in financial operations and legal analytics. Columbia University (Barnard College).
 
 ### Experience
 
